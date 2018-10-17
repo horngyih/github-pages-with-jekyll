@@ -1,6 +1,6 @@
 ---
 title: "FirstPost"
-data: 2018-10-17
+date: 2018-10-17
 ---
 
 # The Quick
